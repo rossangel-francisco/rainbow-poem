@@ -4,4 +4,4 @@ yellow
 green
 blue
 purple
-these are the colors of the rainbow *rainbow*
+these are the colors of the rainbow rainbow :)
